@@ -15,16 +15,8 @@
 ## 공부 기록
 
 ### IPS
+- 직무 정보 취합
 - IPS 직무란 무엇인가
 - RAM과 LSA의 역할
 - 방산기업 IPS 실무 분석
 
-### Defense Data
-- XML과 XSD
-- 데이터 정합성
-- 국방 정보 상호운용성
-
-### Reliability
-- MTBF / MTTR
-- Weibull Distribution
-- Preventive Maintenance
